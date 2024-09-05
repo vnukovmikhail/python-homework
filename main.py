@@ -3,4 +3,4 @@ while True:
     s = 0
     for el in n:
         s += int(el)
-    print(s/len(n))
+    print(s/len(n))#
